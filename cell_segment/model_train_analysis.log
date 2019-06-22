@@ -1,0 +1,67 @@
+时间已过 75.538481 秒。
+****** Start Analysing SVMMdl ******
+** Start Training Set Analysis **
+Number of errors: 64 out of 14600
+Error rate: 0.004384 
+** End Training Set Analysis **
+** Start Testing Set Analysis **
+Number of errors: 16 out of 7346
+Error rate: 0.002178 
+** End Testing Set Analysis **
+****** End Analysing SVMMdl ******
+ 
+****** Start Analysing SVMBalMdl ******
+** Start Training Set Analysis **
+Number of errors: 6817 out of 14600
+Error rate: 0.466918 
+** End Training Set Analysis **
+** Start Testing Set Analysis **
+Number of errors: 1536 out of 7346
+Error rate: 0.209093 
+** End Testing Set Analysis **
+****** End Analysing SVMBalMdl ******
+ 
+****** Start Analysing KNNMdl ******
+** Start Training Set Analysis **
+Number of errors: 65 out of 14600
+Error rate: 0.004452 
+** End Training Set Analysis **
+** Start Testing Set Analysis **
+Number of errors: 16 out of 7346
+Error rate: 0.002178 
+** End Testing Set Analysis **
+****** End Analysing KNNMdl ******
+ 
+****** Start Analysing KNNBalMdl ******
+** Start Training Set Analysis **
+Number of errors: 8757 out of 14600
+Error rate: 0.599795 
+** End Training Set Analysis **
+** Start Testing Set Analysis **
+Number of errors: 16 out of 7346
+Error rate: 0.002178 
+** End Testing Set Analysis **
+****** End Analysing KNNBalMdl ******
+ 
+****** Start Analysing MulNom ******
+** Start Training Set Analysis **
+Number of errors: 64 out of 14600
+Error rate: 0.004384 
+** End Training Set Analysis **
+** Start Testing Set Analysis **
+Number of errors: 16 out of 7346
+Error rate: 0.002178 
+** End Testing Set Analysis **
+****** End Analysing MulNom ******
+ 
+****** Start Analysing BalMulNom ******
+** Start Training Set Analysis **
+Number of errors: 6819 out of 14600
+Error rate: 0.467055 
+** End Training Set Analysis **
+** Start Testing Set Analysis **
+Number of errors: 1539 out of 7346
+Error rate: 0.209502 
+** End Testing Set Analysis **
+****** End Analysing BalMulNom ******
+ 
