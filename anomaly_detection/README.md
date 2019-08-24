@@ -2,10 +2,10 @@
 matlab 2016
 
 ## Typical Anomalies
-![](Typical Anomalies.PNG)
+![](typical_anomalies.png)
 
 ## Foreground Extraction and Parametrization
-![](Foreground Extraction and Parametrization.PNG)
+![](pipeline.png)
 
 ## ScreenShots
 ![](result_screenshot.png)
