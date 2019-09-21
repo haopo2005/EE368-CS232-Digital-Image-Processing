@@ -1,0 +1,3 @@
+python play.py --mode all --path /home/jst/share/project/stanford_cv/DrivingPerception-master/kitti/2011_09_26-1/data --start-frame -1 --end-frame 196
+python play.py --mode trainspeed
+

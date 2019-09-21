@@ -1,0 +1,1 @@
+python lightdet.py --file ./result/light_det/0000000364.png --model detectone

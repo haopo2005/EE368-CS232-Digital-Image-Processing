@@ -1,0 +1,1 @@
+python speeddet.py --prev ./result/flow_detect/0000000266.png --cur ./result/flow_detect/0000000267.png

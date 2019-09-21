@@ -1,0 +1,1 @@
+python signdet.py --path result/sign_det/0000000043.png --sign pedestrian_crossing_left --mode knncomp
