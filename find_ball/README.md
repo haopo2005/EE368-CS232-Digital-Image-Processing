@@ -1,7 +1,7 @@
 ## How to run
 ### Get the 3d trajectory 
-`cd code
-python ballIntersectMain.py
+`cd code`  
+`python ballIntersectMain.py
 `
 ###  Visualize the 3d trajectory
 `
